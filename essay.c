@@ -11,3 +11,5 @@ questions tell you two thing:the structure you should adopt for you to deal
 relevently with all the issues ;and the range of abilities the examiner is expecting you to use in answering a question.
   Take first of these:'Structure'- to unwrap the meaning of a and implications 
 of a question.Most of us struggle to do this well,but the skills involved can be easily learnt.The simple three step technique for analysing the most difficult  concepts.
+   Once this has been done you analyse the question. Again, this is not a time-consuming task, but it will help you to use more of your own ideas and avoid wasting time in your research.Once you’ve learnt to do this, you will be able to make two important things clear to yourself before you start your research.
+
