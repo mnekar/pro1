@@ -17,4 +17,5 @@ by git commit -v , and again by git commit -a -v -m ,created tmp.c file ,modifie
 tmp.c and followed git rm tmp.c,i installed gitk using sudo apt-get install gitk , launched gitk from terminal ,used git add . and then checked git status ,i 
 used --amend with git commit , used git reset HEAD README.md to unstage it ,
 again i did git add README.md , modified essay.c ,run git diff and then used git checkout --essay.c , ran git status , i saw origin as i ran git remote , i ran
-git remote add CS251 [URL],i ran git remote -v , 
+git remote add CS251 [URL],i ran git remote -v ,i used git remote again,i used 
+git fetch origin,i typed the command git remote show origin/CS251, 
